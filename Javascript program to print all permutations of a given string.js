@@ -1,6 +1,5 @@
 <script>
-// Javascript program to print all permutations of a
-// given string.
+
   
 function permute(str, l, r)
 {
@@ -31,5 +30,4 @@ let str = "ABC";
 let n = str.length;
 permute(str, 0, n-1);
   
-// This code is contributed by avanitrachhadiya2155
 </script>
